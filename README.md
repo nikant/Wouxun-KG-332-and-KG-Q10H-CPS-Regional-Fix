@@ -1,4 +1,4 @@
-# Wouxun KG 332 and KG Q10H CPS Regional Fix
+# Wouxun KG 332 and KG Q10H CPS Regional Fix for European users
 
 **Batch File to Configure Regional Settings for Wouxun KG-Q332 or KG-Q10H CPS Compatibility**  
 
